@@ -1,0 +1,47 @@
+/*custom css*/
+
+h3, p {
+	color: black;
+	background-color: white;
+	
+	margin-bottom: 10px;
+}
+
+
+#home21 {
+
+	padding-top: 15px;
+	padding-left: 14px;
+}
+
+#bottomline {
+
+	padding-top: 25px;
+}
+
+#UC3Mimage {
+	margin-left:20px;
+}
+
+#UC3Mtext {
+	margin-left: 850px;
+}
+
+#UC3Mtn {
+
+	margin-top: 40px;
+}
+
+#header {
+	margin-top:50px;
+	margin-left: 120px;
+}
+
+#FAQrow {
+	margin-top: 30px;
+}
+
+#question {
+	margin-left: 120px;
+}
+
