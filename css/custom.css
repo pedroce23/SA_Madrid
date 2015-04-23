@@ -24,6 +24,7 @@ h3, p {
 #bottomline {
 
 	padding-top: 25px;
+	text-align: center;
 }
 
 #UC3Mimage {
@@ -58,3 +59,7 @@ h3, p {
 	margin-left: 13px;
 }
 
+#FAQA {
+
+	 padding-top: 25px;
+}
