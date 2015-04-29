@@ -1,24 +1,31 @@
 /*custom css*/
 
+
 .carousel-caption {
-	padding-bottom: 300px;
-	padding-left: 450px;
+	padding-bottom: 320px;
+	padding-left: 100px;
 
 }
 
 h3, p {
 	color: black;
-	background-color: white;
-
-	
 	margin-bottom: 10px;
-}
+	}
 
+h2 {
+	text-align: center;
+}
 
 #home21 {
 
 	padding-top: 15px;
 	padding-left: 14px;
+
+}
+
+#image-itin {
+ display: block;
+ margin: auto;
 }
 
 #bottomline {
@@ -63,3 +70,21 @@ h3, p {
 
 	 padding-top: 25px;
 }
+
+#aboutright {
+
+	margin-top: 75px;
+}
+
+#itin-block {
+
+	margin-bottom: 20px;
+}
+
+#testimonial {
+
+	margin-top: 25px;
+}
+
+
+
